@@ -109,15 +109,12 @@ HAL_Delay(500);
 
 ![EXP 3PM1(1)](https://github.com/22008686/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118916413/e3c75e43-1016-458f-9a31-18784fbc5b71)
 
-![Uploading EXP3PM(2).jpg…]()
-
-
+![EXP3PM(2)](https://github.com/22008686/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118916413/cac1930c-229d-4074-b4f3-3314952c6b3a)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
- 
- 
- 
+
+![EXP3PM3](https://github.com/22008686/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118916413/3410278f-5851-4940-9089-d8c146e435de)
+
 ## Result :
 
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
